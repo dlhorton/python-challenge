@@ -1,6 +1,6 @@
 # python-challenge
 
-# Financial and Election Analyses
+# Financial and Election Analysis
 
 ## Financial Analysis
 
